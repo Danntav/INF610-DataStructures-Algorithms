@@ -9,7 +9,7 @@ total das arestas (WL).
 
 ## Como rodar
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k5ERAc79vk1I6KmZAOAYKte8_MIEHR3b?usp=sharing)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1g3c_WTNSvdyMH8DeVNH9lcPL7szx_e8J/view?usp=sharing)
 
 1. Abra o notebook no Colab pelo botão acima.
 2. Clique em **Executar tudo**.
