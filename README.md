@@ -26,3 +26,4 @@ O notebook baixa só a pasta `data/` deste repositório e gera as tabelas, as fi
 | `data/optimal/` | 50 grafos com posicionamento ótimo conhecido |
 | `gerar_datasets.py` | script que gerou `synthetic/` e `optimal/` |
 | `videos/` | GIF dos posicionamentos acima |
+| `results/` | CSVs e Imagens com os resultados dos experimentos |
